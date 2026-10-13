@@ -26,8 +26,4 @@ O objetivo principal deste projeto é demonstrar a aplicação prática de autom
 
 ## Isenção de Responsabilidade 
 
-Este projeto foi desenvolvido **estritamente para fins educacionais, de pesquisa acadêmica e demonstração técnica** de conceitos de automação web.
-
-- **Uso Responsável:** O autor não incentiva, apoia ou se responsabiliza pelo uso desta ferramenta para envio de mensagens não solicitadas (spam), disparos em massa, trotes, assédio ou qualquer outra atividade ilícita ou antiética.
-- **Conformidade Legal:** É de inteira responsabilidade do usuário final garantir que a utilização do código esteja em conformidade com as leis aplicáveis (incluindo a **LGPD - Lei Geral de Proteção de Dados**) e com os **Termos de Serviço** das plataformas acessadas.
-- **Isenção de Danos:** O desenvolvedor se exime de qualquer responsabilidade direta ou indireta por eventuais bloqueios de conta, penalidades ou danos decorrentes do uso inadequado deste software por terceiros.
+Ferramenta criada exclusivamente para aprendizado e demonstração técnica. O uso deste script é de total responsabilidade de quem o executa, não havendo qualquer vínculo ou responsabilidade do desenvolvedor com o uso prático (como prospecção ativa ou disparos) feito por terceiros.
